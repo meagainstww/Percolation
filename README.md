@@ -38,4 +38,4 @@ Coursera: Algorithms, Part I, Princeton University---Programming Assignments, We
     (discussed above) on an N-by-N grid, and prints out the mean, standard deviation, and the 95% confidence interval 
     for the percolation threshold.
     
-### 5. [More specific details]()
+### 5. [More specific details](http://blog.sina.com.cn/s/blog_73b055450101j3ap.html)
